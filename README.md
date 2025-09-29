@@ -1,2 +1,5 @@
 # FINE3300-2025-A1
 Assignment 1 for FINE 3300. This repository includes a mortgage payment calculator for different payment schedules and a currency converter.
+Notes: max 10 sentences that introduce the file and its contents
+Comments should walk you through the file
+word doc is not much wrtiting, mostly screenshots of the output
