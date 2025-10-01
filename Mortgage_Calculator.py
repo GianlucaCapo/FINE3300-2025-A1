@@ -74,3 +74,4 @@ if __name__ == "__main__":
     print("Rapid Bi-weekly Payment: ${:.2f}".format(p[4]))
     print("Rapid Weekly Payment: ${:.2f}".format(p[5]))
     #Prints the calculated payment amounts formatted to the nearest cent
+    
