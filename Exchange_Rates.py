@@ -10,7 +10,7 @@ class ExchangeRates: #Defines a new class
         self.rate_usd_cad = None
         self._load_latest_rate()
         #Constructor method to initialize the class.
-        #Sets the path to the CSV file and initializes the USD/CAD rate.
+        #Sets the path to the CSV file in repository and initializes the USD/CAD rate.
 
     def _load_latest_rate(self):
         with open(self.csv_path, newline="", encoding="utf-8") as f:
